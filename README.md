@@ -72,3 +72,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mab1k&repo=com.javarush.pakhalkov.quest)](https://github.com/mab1k/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mab1k&repo=project-servlet)](https://github.com/mab1k/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mab1k&repo=com.javarush.pakhalkov.hippodrome)](https://github.com/mab1k/github-readme-stats)
+
