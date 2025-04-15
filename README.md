@@ -112,8 +112,8 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/mab1k/matrix">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mab1k&repo=matrix" alt="matrix" />
+      <a href="https://github.com/mab1k/project-front">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mab1k&repo=project-front" alt="project-front" />
       </a>
     </td>
   </tr>
