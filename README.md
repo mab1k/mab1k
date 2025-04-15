@@ -66,9 +66,9 @@
 
 ###
 
-<center>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mab1k)](https://github.com/mab1k/github-readme-stats)
-</center>
+<div align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mab1k)](https://github.com/mab1k/github-readme-stats)(https://github.com/mab1k)
+</div>
 
 ###
 
