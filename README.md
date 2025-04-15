@@ -17,7 +17,9 @@
 </div>
 
 ###
-![](https://komarev.com/ghpvc/?username=mab1k)
+<div align="center">
+  ![View Count](https://komarev.com/ghpvc/?username=mab1k)
+</div>
 
 <h3 align="left">👩‍💻  Обо мне</h3>
 
