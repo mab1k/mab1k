@@ -81,29 +81,24 @@
 ###
 
 <table>
+  <!-- Первая строка (3 проекта) -->
   <tr>
-    <!-- Первая строка -->
     <td>
       <a href="https://github.com/mab1k/com.javarush.pakhalkov.quest">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=mab1k&repo=com.javarush.pakhalkov.quest" alt="Quest Game" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/mab1k/project-servlet">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mab1k&repo=project-servlet" alt="Servlet Project" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/mab1k/SQL-Python">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mab1k&repo=SQL-Python" alt="SQL-Python" />
+      <a href="https://github.com/mab1k/com.javarush.pakhalkov.hippodrome">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mab1k&repo=com.javarush.pakhalkov.hippodrome" alt="Hippodrome" />
       </a>
     </td>
   </tr>
+  <!-- Вторая строка (3 проекта) -->
   <tr>
-    <!-- Вторая строка -->
     <td>
-      <a href="https://github.com/mab1k/com.javarush.pakhalkov.hippodrome">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mab1k&repo=com.javarush.pakhalkov.hippodrome" alt="Hippodrome" />
+      <a href="https://github.com/mab1k/project-servlet">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mab1k&repo=project-servlet" alt="Servlet Project" />
       </a>
     </td>
     <td>
@@ -111,11 +106,18 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=mab1k&repo=TinderBot" alt="Tinder Bot" />
       </a>
     </td>
+  </tr>
+  <!-- Третья строка (3 проекта) -->
+  <tr>
+    <td>
+      <a href="https://github.com/mab1k/SQL-Python">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mab1k&repo=SQL-Python" alt="SQL-Python" />
+      </a>
+    </td>
     <td>
       <a href="https://github.com/mab1k/project-front">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mab1k&repo=project-front" alt="project-front" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mab1k&repo=project-front" alt="Project Front" />
       </a>
     </td>
   </tr>
-  
 </table>
