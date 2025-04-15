@@ -59,7 +59,7 @@
 ###
 
 <div align="center">
-  <img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mab1k)](https://github.com/anuraghazra/github-readme-stats)" height="220" alt="streak graph"  />
+  <img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mab1k)](https://github.com/mab1k/github-readme-stats)" height="220" alt="streak graph"  />
 </div>
 
 ###
