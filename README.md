@@ -75,27 +75,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mab1k&repo=project-servlet)](https://github.com/mab1k/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mab1k&repo=com.javarush.pakhalkov.hippodrome)](https://github.com/mab1k/github-readme-stats)
-
-<div align="center">
-  <!-- First Card -->
-  <div style="display: inline-block;">
-    <a href="https://github.com/mab1k/com.javarush.pakhalkov.quest">
-      <img src="" alt="Readme Card" />
-    </a>
-  </div>
-
-  <!-- Second Card -->
-  <div style="display: inline-block;">
-    <a href="https://github.com/mab1k/project-servlet">
-      <img src="" alt="Readme Card" />
-    </a>
-  </div>
-
-  <!-- Third Card -->
-  <div style="display: inline-block;">
-    <a href="https://github.com/mab1k/com.javarush.pakhalkov.hippodrome">
-      <img src="" alt="Readme Card" />
-    </a>
-  </div>
-</div>
+<center>
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mab1k&repo=com.javarush.pakhalkov.quest)](https://github.com/mab1k/github-readme-stats)
+</center>
 
