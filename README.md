@@ -93,6 +93,11 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=mab1k&repo=project-servlet" alt="Servlet Project" />
       </a>
     </td>
+    <td>
+      <a href="https://github.com/mab1k/SQL-Python">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mab1k&repo=SQL-Python" alt="SQL-Python" />
+      </a>
+    </td>
   </tr>
   <tr>
     <!-- Вторая строка -->
@@ -106,5 +111,11 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=mab1k&repo=TinderBot" alt="Tinder Bot" />
       </a>
     </td>
+    <td>
+      <a href="https://github.com/mab1k/matrix">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mab1k&repo=matrix" alt="matrix" />
+      </a>
+    </td>
   </tr>
+  
 </table>
