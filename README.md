@@ -58,7 +58,9 @@
 
 ###
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mab1k)](https://github.com/mab1k/github-readme-stats)
+<center>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mab1k)](https://github.com/mab1k/github-readme-stats)
+</center>
 
 ###
 
@@ -68,5 +70,5 @@
 
 ###
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mab1k&repo=com.javarush.pakhalkov.quest)](https://github.com/mab1k/github-readme-stats)
 
