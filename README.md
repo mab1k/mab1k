@@ -18,13 +18,12 @@
 
 ###
 
-<table align="center">
-  <tr>
-    <td>
-      ![View Count](https://komarev.com/ghpvc/?username=mab1k)
-    </td>
-  </tr>
-</table>
+<div align="center">
+  
+[![View Count](https://komarev.com/ghpvc/?username=mab1k)](https://github.com/mab1k)
+
+</div>
+
 
 
 <h3 align="left">👩‍💻  Обо мне</h3>
