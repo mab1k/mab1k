@@ -58,11 +58,7 @@
 
 ###
 
-<div align="center">
-  <a href="https://github.com/mab1k/github-readme-stats">
-    <img src="" height="220" alt="Top Langs" />
-  </a>
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
 
