@@ -11,9 +11,6 @@
 ###
 
 <div align="center">
-  <a href="piv0004@yandex.ru" target="_blank">
-    <img src="https://i.pinimg.com/originals/e1/b3/fb/e1b3fb3ce40bfae74d7b787cff0330c1.png" height="25" alt="yandex logo"  />
-  </a>
   <a href="https://t.me/Mab1k74" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
