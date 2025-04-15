@@ -82,21 +82,29 @@
 
 <table>
   <tr>
-    <!-- Первая строка (два столбца) -->
+    <!-- Первая строка -->
     <td>
-      [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mab1k&repo=com.javarush.pakhalkov.quest)](https://github.com/mab1k/com.javarush.pakhalkov.quest)
+      <a href="https://github.com/mab1k/com.javarush.pakhalkov.quest">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mab1k&repo=com.javarush.pakhalkov.quest" alt="Quest Game" />
+      </a>
     </td>
     <td>
-      [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mab1k&repo=project-servlet)](https://github.com/mab1k/project-servlet)
+      <a href="https://github.com/mab1k/project-servlet">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mab1k&repo=project-servlet" alt="Servlet Project" />
+      </a>
     </td>
   </tr>
   <tr>
-    <!-- Вторая строка (два столбца) -->
+    <!-- Вторая строка -->
     <td>
-      [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mab1k&repo=com.javarush.pakhalkov.hippodrome)](https://github.com/mab1k/com.javarush.pakhalkov.hippodrome)
+      <a href="https://github.com/mab1k/com.javarush.pakhalkov.hippodrome">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mab1k&repo=com.javarush.pakhalkov.hippodrome" alt="Hippodrome" />
+      </a>
     </td>
     <td>
-      [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mab1k&repo=TinderBot)](https://github.com/mab1k/TinderBot)
+      <a href="https://github.com/mab1k/TinderBot">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mab1k&repo=TinderBot" alt="Tinder Bot" />
+      </a>
     </td>
   </tr>
 </table>
