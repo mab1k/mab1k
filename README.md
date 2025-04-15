@@ -54,11 +54,19 @@
 
 ###
 
-<h3 align="left">🔥   Моя статистика :</h3>
+<h3 align="left">🔥   Используемые языки:</h3>
 
 ###
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mab1k)](https://github.com/mab1k/github-readme-stats)
 
 ###
+
+###
+
+<h3 align="left">📓   Мои проекты:</h3>
+
+###
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
