@@ -80,9 +80,23 @@
 
 ###
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mab1k&repo=com.javarush.pakhalkov.quest)](https://github.com/mab1k/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mab1k&repo=project-servlet)](https://github.com/mab1k/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mab1k&repo=com.javarush.pakhalkov.hippodrome)](https://github.com/mab1k/github-readme-stats)
-
+<table>
+  <tr>
+    <!-- Первая строка (два столбца) -->
+    <td>
+      [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mab1k&repo=com.javarush.pakhalkov.quest)](https://github.com/mab1k/com.javarush.pakhalkov.quest)
+    </td>
+    <td>
+      [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mab1k&repo=project-servlet)](https://github.com/mab1k/project-servlet)
+    </td>
+  </tr>
+  <tr>
+    <!-- Вторая строка (два столбца) -->
+    <td>
+      [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mab1k&repo=com.javarush.pakhalkov.hippodrome)](https://github.com/mab1k/com.javarush.pakhalkov.hippodrome)
+    </td>
+    <td>
+      [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mab1k&repo=TinderBot)](https://github.com/mab1k/TinderBot)
+    </td>
+  </tr>
+</table>
