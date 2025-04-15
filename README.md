@@ -1,12 +1,12 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="600" src="https://media1.tenor.com/m/uwdvcjTWrVMAAAAC/coding-boy-coding.gif"  />
+  <img height="400" width="800" src="https://media1.tenor.com/m/uwdvcjTWrVMAAAAC/coding-boy-coding.gif"  />
 </div>
 
 ###
 
-<h1 align="center">Привет👋 Меня зовут Алексей!</h1>
+<h1 align="center">Привет👋 Меня зовут Иван!</h1>
 
 ###
 
