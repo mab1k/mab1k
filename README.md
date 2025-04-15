@@ -67,7 +67,9 @@
 ###
 
 <div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mab1k)](https://github.com/mab1k/github-readme-stats)(https://github.com/mab1k)
+  <a href="https://github.com/mab1k">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mab1k" alt="Top Langs" />
+  </a>
 </div>
 
 ###
