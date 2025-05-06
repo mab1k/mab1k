@@ -84,26 +84,26 @@
   <!-- Первая строка (3 проекта) -->
   <tr>
     <td>
-      <a href="https://github.com/mab1k/com.javarush.pakhalkov.quest">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mab1k&repo=com.javarush.pakhalkov.quest" alt="Quest Game" />
+      <a href="https://github.com/mab1k/tests_ntk">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mab1k&repo=tests_ntk" alt="Tests NTK" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/mab1k/com.javarush.pakhalkov.hippodrome">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mab1k&repo=com.javarush.pakhalkov.hippodrome" alt="Hippodrome" />
+      <a href="https://github.com/mab1k/site_bd_tests">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mab1k&repo=site_bd_tests" alt="Hippodrome" />
       </a>
     </td>
   </tr>
   <!-- Вторая строка (3 проекта) -->
   <tr>
     <td>
-      <a href="https://github.com/mab1k/project-servlet">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mab1k&repo=project-servlet" alt="Servlet Project" />
+      <a href="https://github.com/mab1k/tests_auth_upload">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mab1k&repo=tests_auth_upload" alt="Servlet Project" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/mab1k/TinderBot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mab1k&repo=TinderBot" alt="Tinder Bot" />
+      <a href="https://github.com/mab1k/tests_upload_zip_files">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mab1k&repo=tests_upload_zip_files" alt="Tinder Bot" />
       </a>
     </td>
   </tr>
@@ -115,8 +115,8 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/mab1k/project-front">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mab1k&repo=project-front" alt="Project Front" />
+      <a href="https://github.com/mab1k/com.javarush.pakhalkov.quest">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mab1k&repo=com.javarush.pakhalkov.quest" alt="Project Front" />
       </a>
     </td>
   </tr>
