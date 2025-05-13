@@ -89,7 +89,7 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/mab1k/`">
+      <a href="https://github.com/mab1k/tests_disc`">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=mab1k&repo=tests_disc" alt="Hippodrome" />
       </a>
     </td>
