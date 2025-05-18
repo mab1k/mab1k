@@ -4,11 +4,6 @@
   <img height="400" width="800" src="https://media1.tenor.com/m/uwdvcjTWrVMAAAAC/coding-boy-coding.gif"  />
 </div>
 
-###
-
-<h1 align="center">Привет👋 Меня зовут Иван!</h1>
-
-###
 
 <div align="center">
   <a href="https://t.me/Mab1k74" target="_blank">
